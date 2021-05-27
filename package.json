@@ -1,0 +1,28 @@
+{
+  "name": "express-api-starter",
+  "version": "1.0.0",
+  "description": "express-api-starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devgwiji/express-api-starter.git"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "starter",
+    "boilerplate"
+  ],
+  "author": "devgwiji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devgwiji/express-api-starter/issues"
+  },
+  "homepage": "https://github.com/devgwiji/express-api-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
